@@ -1,0 +1,21 @@
+body {
+    background-color: bisque;
+    font-family: 'Times New Roman', Arial, Helvetica, sans-serif;
+}
+
+li {
+    font-size: 18px;
+}
+
+#header {
+    color: rgb(58, 33, 3);
+}
+
+a:visited {
+    color: black;
+}
+
+a:hover {
+    color: rgb(58, 33, 3);
+    text-decoration: none;
+}

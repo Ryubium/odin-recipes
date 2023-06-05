@@ -1,13 +1,19 @@
 body {
-    font-size: 32px;
+    background-color: rgb(157, 146, 218);
+    color: black;
     font-family: 'Times New Roman', Arial, Helvetica, sans-serif;
 }
 
 .title {
-    color:  red;
     text-align: center;
 }
 
-.intro {
-    color: red;
+.recipe {
+    text-decoration: none;
+    font-size: 24px;
+    color: black;
+}
+
+a:hover {
+    color: bisque;
 }
