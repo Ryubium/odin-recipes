@@ -1,0 +1,13 @@
+body {
+    font-size: 32px;
+    font-family: 'Times New Roman', Arial, Helvetica, sans-serif;
+}
+
+.title {
+    color:  red;
+    text-align: center;
+}
+
+.intro {
+    color: red;
+}
